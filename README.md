@@ -1,9 +1,3 @@
-# ![TypeScript Node](logo.svg?sanitize=true)
-
-[![NPM version][npm-image]][npm-url]
-[![NPM downloads][downloads-image]][downloads-url]
-[![Build status][github-actions-image]][github-actions-url]
-[![Test coverage][codecov-image]][codecov-url]
 
 > TypeScript execution and REPL for node.js, with source map support. **Works with `typescript@>=2.7`**.
 
